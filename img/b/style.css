@@ -1,0 +1,27 @@
+.parentr{
+    background-color: navajowhite;
+    width: 70%;
+    text-align: center;
+    margin: 5%;
+  
+    display: flex;
+   
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.y{
+   border-radius: 20px;
+    color: rgb(0, 0, 0);
+  margin-top: 10px;
+    width: 20%;
+ 
+font-size: 25px;
+background-color: olive;
+margin-bottom: 10px;
+flex-grow: 0.2;
+}
+.two{
+    order: -1;
+    flex-basis: 250px;
+    width: 250px;
+}
